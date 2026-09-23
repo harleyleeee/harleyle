@@ -82,7 +82,24 @@ flowchart LR
 
 # 📌 Featured Projects
 
-## 🏦 Banking Transaction Analytics
+
+## Vietnamese Financial Sentiment Analysis
+
+**NLP · PhoBERT · PyTorch · Sentiment Classification**
+
+Fine-tuned **PhoBERT** for Vietnamese financial sentiment classification and explored curriculum learning, model fusion, and supervised contrastive learning.
+
+**Result**
+
+`Accuracy: 90.06%` &nbsp; | &nbsp; `Macro-F1: 87.97%`
+
+This project was developed as part of my Master's research in Information Systems at Korea University.
+
+➡️ **[View Project]**
+
+---
+
+##  Banking Transaction Analytics
 
 **Business Analytics · SQL · Power BI · Customer Analytics**
 
@@ -95,27 +112,11 @@ Analyzed transaction data to understand customer behavior, revenue contribution,
 - Which transaction channels are most frequently used?
 - How does behavior vary by age, gender, and transaction time?
 
-➡️ **[View Project](YOUR_BANKING_PROJECT_LINK)**
+➡️ **[View Project]**
 
 ---
 
-## 🇻🇳 Vietnamese Financial Sentiment Analysis
-
-**NLP · PhoBERT · PyTorch · Sentiment Classification**
-
-Fine-tuned **PhoBERT** for Vietnamese financial sentiment classification and explored curriculum learning, model fusion, and supervised contrastive learning.
-
-**Result**
-
-`Accuracy: 90.06%` &nbsp; | &nbsp; `Macro-F1: 87.97%`
-
-This project was developed as part of my Master's research in Information Systems at Korea University.
-
-➡️ **[View Project](YOUR_PHOBERT_PROJECT_LINK)**
-
----
-
-## 🍽️ Restaurant Review Analysis
+##  Restaurant Review Analysis
 
 **Web Scraping · Text Mining · NLP · Clustering**
 
@@ -123,11 +124,11 @@ Collected restaurant review data from the web and applied text preprocessing and
 
 `Python` `BeautifulSoup` `Pandas` `NLP` `Clustering`
 
-➡️ **[View Project](YOUR_RESTAURANT_PROJECT_LINK)**
+➡️ **[View Project]**
 
 ---
 
-## 🇨🇦 Canadian Freelancer Market Analysis
+## Canadian Freelancer Market Analysis
 
 **Web Scraping · EDA · Market Analysis**
 
@@ -135,11 +136,11 @@ Collected freelancer information from online platforms and analyzed skills, pric
 
 `Python` `Web Scraping` `Pandas` `EDA`
 
-➡️ **[View Project](YOUR_FREELANCER_PROJECT_LINK)**
+➡️ **[View Project]**
 
 ---
 
-## 🎬 Movie Overview Sentiment Analysis
+## Movie Overview Sentiment Analysis
 
 **Text Analytics · Sentiment Analysis · Data Visualization**
 
@@ -147,11 +148,11 @@ Collected movie data through API requests and analyzed movie overview text using
 
 `Python` `API` `Pandas` `NLP` `Sentiment Analysis`
 
-➡️ **[View Project](YOUR_MOVIE_PROJECT_LINK)**
+➡️ **[View Project]**
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### Data Analysis & Programming
 
@@ -185,8 +186,8 @@ Collected movie data through API requests and analyzed movie overview text using
 | Language | Proficiency |
 |---|---|
 | 🇻🇳 Vietnamese | Native |
-| 🇰🇷 Korean | TOPIK Level 6 |
-| 🇬🇧 English | TOEIC 915 |
+| 🇰🇷 Korean | Advanced Level |
+| 🇬🇧 English | Advanced Level |
 
 ---
 
@@ -225,8 +226,7 @@ I am particularly interested in roles where I can combine **business understandi
 
 **Business × Data × Technology**
 
-[LinkedIn](YOUR_LINKEDIN) ·
-[Portfolio](YOUR_PORTFOLIO_LINK) ·
-[Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/minh-huong-le-tran/) ·
+[Email](mailto:harleyleforwork@gmail.com)
 
 </div>
