@@ -4,7 +4,7 @@
 
 ### Business & Data Analytics | Information Systems | Python · SQL · Power BI
 
-🇻🇳 Born in Vietnam &nbsp;•&nbsp; Located in 🇰🇷 Korea  
+Born in 🇻🇳 Vietnam &nbsp;•&nbsp; Located in 🇰🇷 Seoul, Korea  
 Vietnamese · Korean · English
 
 <br>
