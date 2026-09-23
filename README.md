@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Tran Minh Huong Le (Harley| Minhyeon Lee)
+# 👋 Hi, I'm Tran Minh Huong Le (Harley | Minhyeon Lee)
 
 ### Business & Data Analytics | Information Systems | Python · SQL · Power BI
 
