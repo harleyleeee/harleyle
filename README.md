@@ -1,17 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Minh Huong Le
+# 👋 Hi, I'm Tran Minh Huong Le (Harley| Minhyeon Lee)
 
 ### Business & Data Analytics | Information Systems | Python · SQL · Power BI
 
-🇻🇳 Vietnam &nbsp;•&nbsp; 🇰🇷 Korea  
+🇻🇳 Born in Vietnam &nbsp;•&nbsp; Located in 🇰🇷 Korea  
 Vietnamese · Korean · English
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Project_Portfolio-black?style=for-the-badge&logo=github)](YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-huong-le-tran/)]
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harleyleforwork@gmail.com)
 
 </div>
 
